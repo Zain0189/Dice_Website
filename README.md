@@ -1,0 +1,1 @@
+This project is a simple dice game website where, upon refreshing the page two dice roll randomly, generating numbers between 1 to 6. The website then determines and displays the winner based on which dice has the higher number. Developed using HTML, CSS, and JavaScript. 🎲
